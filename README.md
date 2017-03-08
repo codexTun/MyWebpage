@@ -1,2 +1,2 @@
 # MyWebpage
-Curation of personal endeavours 
+Curation of my personal endeavours 
